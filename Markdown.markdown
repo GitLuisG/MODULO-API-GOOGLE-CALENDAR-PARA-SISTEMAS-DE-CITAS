@@ -15,22 +15,22 @@
 * pip install --upgrade google-auth-oauthlib
 * pip install datefinder
 * pip install oauth2client
-#------------------------------------------------------------------------------------
-#instalacion de libreria para correo
-pip install smtplib
-#------------------------------------------------------------------------------------
-##uso de la libreria flask<br>
-py -m venv nombre de Carpeta o Proyecto<br>
-cd nombre de Carpeta o Proyecto\Scripts<br>
-ACTIVATE<br>
-pip  install flask<br>
-Set FLASK_APP=nombre de archivo.py<br>
-flask run<br>
-entrar al servidor 127.0.0.1:5000
-api en flask
+# ------------------------------------------------------------------------------------
+# instalacion de libreria para correo
+* pip install smtplib
+# ------------------------------------------------------------------------------------
+## uso de la libreria flask<br>
+* py -m venv nombre de Carpeta o Proyecto
+* cd nombre de Carpeta o Proyecto\Scripts
+* ACTIVATE
+* pip  install flask
+* Set FLASK_APP=nombre de archivo.py
+* flask run
+* entrar al servidor 127.0.0.1:5000
+* api en flask
 ## instalaciones
-pip install -U Flask<br>
-pip install flask_restful<br>
-##librerias
-from flask import Flask
-from flask_restful import Resource, Api.
+* pip install -U Flask
+* pip install flask_restful
+## librerias
+* from flask import Flask
+* from flask_restful import Resource, Api.
