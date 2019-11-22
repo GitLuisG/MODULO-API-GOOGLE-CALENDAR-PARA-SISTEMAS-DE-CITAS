@@ -3,7 +3,7 @@
 
 * "Estancias I: , Nuesto Proyecto"
 
-*Es un sitio web desarrollado en python3 para "El Sistema de citas de la Universidad Politecnica"
+* Es un sitio web desarrollado en python3 para "El Sistema de citas de la Universidad Politecnica"
 
 ## Librerias instaladas
 * pip install requests
@@ -15,10 +15,10 @@
 * pip install --upgrade google-auth-oauthlib
 * pip install datefinder
 * pip install oauth2client
-# ------------------------------------------------------------------------------------
+# -----------------------------------------------
 # instalacion de libreria para correo
 * pip install smtplib
-# ------------------------------------------------------------------------------------
+# -----------------------------------------------
 ## uso de la libreria flask<br>
 * py -m venv nombre de Carpeta o Proyecto
 * cd nombre de Carpeta o Proyecto\Scripts
